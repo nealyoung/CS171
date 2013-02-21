@@ -1,0 +1,1 @@
+Connect-K AI - term project for CS171 at UC Irvine.
